@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572807896 source:c:\users\ivan\desktop\struk\treca\1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1572807904 source:c:\users\ivan\desktop\struk\treca\main.c
+	<stdio.h>
+	<stdlib.h>
+

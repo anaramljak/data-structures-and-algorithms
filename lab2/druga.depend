@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573819024 source:c:\users\ivan\desktop\struk\druga\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575231333 source:c:\users\ivan\desktop\struk\druga\1.c
+	<stdio.h>
+	<stdlib.h>
+

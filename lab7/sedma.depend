@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1579453855 source:c:\users\ivan\desktop\struk\sedma\sedma\main.c
+	<stdio.h>
+	<ctype.h>
+	"bstree.h"
+
+1401373098 c:\users\ivan\desktop\struk\sedma\sedma\bstree.h
+	<string.h>
+
+1579453479 source:c:\users\ivan\desktop\struk\sedma\sedma\bstree.c
+	<stdio.h>
+	<malloc.h>
+	"bstree.h"
+

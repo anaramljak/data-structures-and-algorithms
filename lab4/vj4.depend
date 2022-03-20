@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1573473180 source:c:\users\user\desktop\vjezb4\vj4\1.c
+	<stdio.h>
+	<stdlib.h>
+	"sortiranja.h"
+
+1573469001 c:\users\user\desktop\vjezb4\vj4\sortiranja.h
+
+1573468198 source:c:\users\user\desktop\vjezb4\vj4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1573473214 source:c:\users\user\desktop\vjezb4\vj4\sortiranja.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+
+1573818561 source:c:\users\ivan\desktop\vj4\sortiranja.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+
+1573899467 source:c:\users\ivan\desktop\vj4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sortiranja.h"
+
+1573818572 c:\users\ivan\desktop\vj4\sortiranja.h
+
+1575227628 source:c:\users\ivan\desktop\struk\vj4\sortiranja.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+
+1575228109 source:c:\users\ivan\desktop\struk\vj4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sortiranja.h"
+
+1575227655 c:\users\ivan\desktop\struk\vj4\sortiranja.h
+
+1575227628 source:c:\users\ivan\desktop\struk\cetvrta\sortiranja.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+

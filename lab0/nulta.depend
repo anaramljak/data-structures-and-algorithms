@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570303457 source:c:\users\ivan\desktop\struk\nulta\a.c
+	<stdio.h>
+
+1570301619 source:c:\users\ivan\desktop\struk\nulta\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1570400188 source:c:\users\ivan\desktop\struk\nulta\b.c
+	<stdio.h>
+
+1570400086 source:c:\users\ivan\desktop\struk\nulta\c.c
+	<stdio.h>
+
