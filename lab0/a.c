@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int vraca(char *str1)
+int retrn(char *str1)
 {
     int i=0;
     while(*str1 != '\0')
@@ -11,7 +11,7 @@ int vraca(char *str1)
     return i;
 }
 
-int uporedi_me(char *str1, char *str2)
+int compere(char *str1, char *str2)
 {
     while(1)
     {
@@ -31,7 +31,7 @@ int uporedi_me(char *str1, char *str2)
 }
 
 
-void kopija(char *str1, char *str2)
+void copy(char *str1, char *str2)
 {
     while(*str2!='\0')
     {
